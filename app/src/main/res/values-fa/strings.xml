@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">تونل اترنگ</string>
+    <string name="widget_title">اترنگ</string>
+    <string name="widget_status_disconnected">قطع شده</string>
+    <string name="widget_button_desc">تغییر وضعیت اتصال</string>
+    <string name="proto_masque">ماسک (MASQUE)</string>
+    <string name="proto_wire">وایرگارد (WIRE)</string>
+    <string name="proto_gool">گول (GOOL)</string>
+    <string name="status_connected">متصل و ایمن</string>
+    <string name="status_disconnected">آماده اتصال</string>
+    <string name="status_connecting">در حال برقراری ارتباط...</string>
+    <string name="tab_dashboard">داشبورد</string>
+    <string name="tab_settings">تنظیمات</string>
+    <string name="tab_logs">لاگ‌ها</string>
+    <string name="tab_about">درباره برنامه</string>
+    <string name="theme_system">پیش‌فرض سیستم</string>
+    <string name="theme_dark">تاریک</string>
+    <string name="theme_light">روشن</string>
+</resources>

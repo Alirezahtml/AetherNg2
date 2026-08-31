@@ -1,0 +1,7 @@
+{
+  "name": "Aether Ng",
+  "description": "High-performance VPN & Proxy client supporting MASQUE, WireGuard, GOOL, and Cloudflare Zero Trust with real-time telemetry, auto-detection, speed testing, light & dark theme, and Persian localization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

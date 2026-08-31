@@ -1,0 +1,17 @@
+package io.github.immaghzbad.aetherst.shared.ui.components
+
+import androidx.compose.foundation.lazy.LazyListState
+import androidx.compose.runtime.Composable
+import androidx.compose.ui.Modifier
+
+@Composable
+expect fun LogsVerticalScrollbar(
+    state: LazyListState,
+    modifier: Modifier = Modifier
+)
+
+@Composable
+expect fun PlatformBackHandler(
+    enabled: Boolean = true,
+    onBack: () -> Unit
+)
